@@ -1,3 +1,3 @@
-def current_age_for_birth(year)
-  return "2018 - #{year}"
+def current_age_for_birth_year(year)
+  puts 2003 - "#{year}".to_i
 end
